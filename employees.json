@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Alice Johnson",
+        "age": 31,
+        "department": "IT",
+        "email": "alice.j@company.com",
+        "phone_number": "111-222-3333"
+    },
+    {
+        "name": "samyak",
+        "age": 20,
+        "department": "HR",
+        "email": "hiigma@gmai.com",
+        "phone_number": "876235790"
+    }
+]

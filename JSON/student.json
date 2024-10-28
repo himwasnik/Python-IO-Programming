@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "himanshu",
+        "age": 21,
+        "subjects": [
+            "Math",
+            "Science"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Bob",
+        "age": 23,
+        "subjects": [
+            "History",
+            "Literature"
+        ]
+    }
+]
